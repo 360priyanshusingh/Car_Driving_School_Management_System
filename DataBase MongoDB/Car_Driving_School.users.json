@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "65ccf4162ce18ca6c451b9ee"
+  },
+  "packageId": {
+    "$oid": "65cb61ad2c0e6cb7d7097378"
+  },
+  "registrationId": "E97D72",
+  "name": "kaka",
+  "email": "upscpriyanshu06@gmail.com",
+  "gender": "Female",
+  "address": "At.Bhopal",
+  "img": null,
+  "contact": "07974037363",
+  "lincenceNumber": "123456",
+  "age": "10",
+  "alternateContact": "0987",
+  "startDate": "2024-02-14T22:39",
+  "traningTime": "40",
+  "status": "Complete",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cdd6f323ccf992114ab313"
+  },
+  "packageId": {
+    "$oid": "65cb61ad2c0e6cb7d7097378"
+  },
+  "registrationId": "A24221",
+  "name": "Prashant",
+  "email": "upscpriyanshu06@gmail.com",
+  "gender": "Male",
+  "address": "At.Bhopal",
+  "img": "img_1707988722975.jpeg",
+  "contact": "07974037363",
+  "lincenceNumber": "efd3rf345",
+  "age": "300",
+  "alternateContact": "300",
+  "startDate": "2024-02-15T14:48",
+  "traningTime": "d3",
+  "status": "Complete",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d07f5b247e462734fac1b6"
+  },
+  "packageId": {
+    "$oid": "65cb61ad2c0e6cb7d7097378"
+  },
+  "registrationId": "3C63B1",
+  "name": "Roshan",
+  "email": "dcsf",
+  "gender": "Male",
+  "address": "betul",
+  "img": "img_1708162907288.jpg",
+  "contact": "324",
+  "lincenceNumber": "098765",
+  "age": "60",
+  "alternateContact": "43643",
+  "startDate": "2024-02-17T15:10",
+  "traningTime": "05:00AM - 06:00PM",
+  "status": "Complete",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d08157247e462734fb07c8"
+  },
+  "packageId": {
+    "$oid": "65d08097247e462734fad247"
+  },
+  "registrationId": "8BAF64",
+  "name": "Veneeta",
+  "email": "Vini@gmail.com",
+  "gender": "Female",
+  "address": "betul",
+  "img": "img_1708163415798.PNG",
+  "contact": "0987655",
+  "lincenceNumber": "0987654",
+  "age": "28",
+  "alternateContact": "098765",
+  "startDate": "2024-02-14T15:17",
+  "traningTime": "12:00AM - 01:00PM",
+  "status": "Complete",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d0830c247e462734fb55e0"
+  },
+  "packageId": {
+    "$oid": "65cb61ad2c0e6cb7d7097378"
+  },
+  "registrationId": "79421B",
+  "name": "Divya Sisodiya",
+  "email": "divya@gmail.com",
+  "gender": "Female",
+  "address": "betul",
+  "img": "img_1708163852820.png",
+  "contact": "09876345",
+  "lincenceNumber": "908898",
+  "age": "21",
+  "alternateContact": "768976543",
+  "startDate": "2024-01-20T15:26",
+  "traningTime": "09:00AM - 10:00AM",
+  "status": "Partial Payment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc4c0f3061a847e289d81b"
+  },
+  "packageId": {
+    "$oid": "65dc4b8c3061a847e289cb23"
+  },
+  "registrationId": "4055C7",
+  "name": "Pri Rajput",
+  "email": "admin@gmail.com",
+  "gender": "Male",
+  "address": "at post jambada",
+  "img": "img_1708936206999.jpg",
+  "contact": "14233634",
+  "lincenceNumber": "126547",
+  "age": "10",
+  "alternateContact": "78645687",
+  "startDate": "2024-02-26T13:58",
+  "traningTime": "12:00AM - 01:00PM",
+  "status": "Partial Payment",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc6b53809f2f68413827ba"
+  },
+  "packageId": {
+    "$oid": "65cb61ad2c0e6cb7d7097378"
+  },
+  "registrationId": "A210AA",
+  "name": "apoorv kumar",
+  "email": "apoorv123",
+  "gender": "Male",
+  "address": "lmn bbb ***",
+  "img": "img_1708944210915.jpg",
+  "contact": "78545645**",
+  "lincenceNumber": "876543*****",
+  "age": "28",
+  "alternateContact": "65768923**",
+  "startDate": "2024-02-26T17:11",
+  "traningTime": "09:00AM - 10:00AM",
+  "status": "Partial Payment",
+  "__v": 0
+}]

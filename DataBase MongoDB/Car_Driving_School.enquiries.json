@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65cda45098bdf785e928d9ea"
+  },
+  "name": "Prashant",
+  "email": "upscpriyanshu06@gmail.com",
+  "number": "79740373",
+  "discription": "i want to know aboute timing",
+  "status": "read",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d0e88b8fd560ae0016bc04"
+  },
+  "name": "Gourav",
+  "email": "xxxx@gmail.com",
+  "number": "1234567",
+  "discription": "i want infomation aboute package",
+  "status": "read",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc44af3061a847e2890f1f"
+  },
+  "name": "Krishna Knhiya",
+  "email": "xxxx@gmail.com",
+  "number": "1423456",
+  "discription": "i want to know packages",
+  "status": "read",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc6d3c809f2f68413834b6"
+  },
+  "name": "Mayank",
+  "email": "mayank2@abc.com",
+  "number": "87543243**",
+  "discription": "send price detail",
+  "status": "read",
+  "__v": 0
+}]

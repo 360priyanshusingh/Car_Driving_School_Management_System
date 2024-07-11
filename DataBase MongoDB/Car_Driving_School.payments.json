@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "65cfbd3cf290d7dd223caccb"
+  },
+  "remarks": "first time ",
+  "amount": 6000,
+  "date": {
+    "$date": "2024-02-16T19:53:32.122Z"
+  },
+  "status": "complete",
+  "userId": {
+    "$oid": "65cdd6f323ccf992114ab313"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d08361247e462734fb70e0"
+  },
+  "remarks": "first time",
+  "amount": 3000,
+  "date": {
+    "$date": "2024-02-17T09:58:57.841Z"
+  },
+  "status": "Partial Payment",
+  "userId": {
+    "$oid": "65ccf4162ce18ca6c451b9ee"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d08379247e462734fb7f25"
+  },
+  "remarks": "second time",
+  "amount": 3000,
+  "date": {
+    "$date": "2024-02-17T09:59:21.731Z"
+  },
+  "status": "complete",
+  "userId": {
+    "$oid": "65ccf4162ce18ca6c451b9ee"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d099de247e462734fe3de5"
+  },
+  "remarks": "first time",
+  "amount": 3000,
+  "date": {
+    "$date": "2024-02-17T11:34:54.332Z"
+  },
+  "status": "Partial Payment",
+  "userId": {
+    "$oid": "65d07f5b247e462734fac1b6"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d099f2247e462734fe485e"
+  },
+  "remarks": "second",
+  "amount": 1000,
+  "date": {
+    "$date": "2024-02-17T11:35:14.539Z"
+  },
+  "status": "Partial Payment",
+  "userId": {
+    "$oid": "65d07f5b247e462734fac1b6"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d09a03247e462734fe51ff"
+  },
+  "remarks": "third",
+  "amount": 2000,
+  "date": {
+    "$date": "2024-02-17T11:35:31.194Z"
+  },
+  "status": "complete",
+  "userId": {
+    "$oid": "65d07f5b247e462734fac1b6"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc48df3061a847e2896a26"
+  },
+  "remarks": "first time",
+  "amount": 3000,
+  "date": {
+    "$date": "2024-02-26T08:16:31.544Z"
+  },
+  "status": "Partial Payment",
+  "userId": {
+    "$oid": "65d08157247e462734fb07c8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc4c5b3061a847e289e253"
+  },
+  "remarks": "second time",
+  "amount": 5000,
+  "date": {
+    "$date": "2024-02-26T08:31:23.264Z"
+  },
+  "status": "complete",
+  "userId": {
+    "$oid": "65dc4c0f3061a847e289d81b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc4c983061a847e289f172"
+  },
+  "remarks": "second time",
+  "amount": 5000,
+  "date": {
+    "$date": "2024-02-26T08:32:24.253Z"
+  },
+  "status": "complete",
+  "userId": {
+    "$oid": "65d08157247e462734fb07c8"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc6e74809f2f68413851c5"
+  },
+  "remarks": "1st payment",
+  "amount": 1000,
+  "date": {
+    "$date": "2024-02-26T10:56:52.173Z"
+  },
+  "status": "Partial Payment",
+  "userId": {
+    "$oid": "65dc6b53809f2f68413827ba"
+  },
+  "__v": 0
+}]

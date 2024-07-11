@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "65cb61ad2c0e6cb7d7097378"
+  },
+  "name": "SUV",
+  "description": "it a good",
+  "price": "6000",
+  "duration": "50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d08097247e462734fad247"
+  },
+  "name": "Scorpio 90 days",
+  "description": "this the very good package",
+  "price": "8000",
+  "duration": "90 days",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc4b8c3061a847e289cb23"
+  },
+  "name": "Mahindra Cars  ",
+  "description": "It is nice",
+  "price": "10000",
+  "duration": "100 ",
+  "__v": 0
+}]
